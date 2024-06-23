@@ -11,14 +11,17 @@ Descreva aqui a organização do repositório, facilitando a navegação e enten
     ├── external # Dados externos ao projeto
     ├── processed # Dados processados para análise
     └── raw # Dados brutos coletados
+
 ├── docs # Documentação relevante ao projeto
     ├── presentation.pptx # Apresentação do projeto
     └── references.md # Referências e fontes utilizadas
+
 ├── notebooks # Notebooks Jupyter para análise e modelagem
     ├── 01_data_collection.ipynb # Notebook para coleta de dados
     ├── 02_data_manipulation_and_merging.ipynb # Notebook para manipulação e cruzamento de dados
     ├── 03_data_preprocessing.ipynb # Notebook para pré-processamento de dados
     └── 04_modeling.ipynb # Notebook para modelagem de dados
+
 ├── src # Código-fonte para scripts e módulos
     ├── data_collection.py # Script para coleta de dados
     ├── data_manipulation_and_merging.py # Script para manipulação e cruzamento de dados
@@ -26,6 +29,7 @@ Descreva aqui a organização do repositório, facilitando a navegação e enten
     ├── database.py # Script para operações com banco de dados
     ├── modelling.py # Script para modelagem de dados
     └── utils.py # Funções utilitárias
+
 ├── .gitignore # Arquivo para especificar quais arquivos devem ser ignorados pelo Git
 ├── README.md # Descrição e instruções para o projeto
 └── requirements.txt # Lista de dependências e bibliotecas necessárias para o projeto
