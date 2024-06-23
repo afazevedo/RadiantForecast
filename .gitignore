@@ -1,2 +1,4 @@
 # Ignorar todos os arquivos dentro da pasta data/ e seus subdiretórios
-data/**
+data/external**
+data/processed**
+data/raw**

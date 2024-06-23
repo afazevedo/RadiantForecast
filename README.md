@@ -16,6 +16,8 @@ Descreva aqui a organização do repositório, facilitando a navegação e enten
     ├── presentation.pptx # Apresentação do projeto
     └── references.md # Referências e fontes utilizadas
 
+├── images # Imagens de gráficos gerados
+
 ├── notebooks # Notebooks como documentação do processo
     ├── 01_data_collection.ipynb # Notebook para coleta de dados
     ├── 02_data_manipulation_and_merging.ipynb # Notebook para manipulação e cruzamento de dados
