@@ -1,0 +1,2 @@
+# Ignorar todos os arquivos dentro da pasta data/ e seus subdiretórios
+data/**
