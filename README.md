@@ -31,6 +31,9 @@ Descreva aqui a organização do repositório, facilitando a navegação e enten
 └── requirements.txt # Lista de dependências e bibliotecas necessárias para o projeto
 ```
 
+## Dados Principais
+Os principais dados que estão na pasta data podem ser encontrados no seguinte link para download: [Link do Drive](https://drive.google.com/drive/folders/12ZbymZVx6S1SeXLXG9TiSbARSzru_ii6?usp=sharing)
+
 ## Configuração
 Instruções sobre como preparar o ambiente para executar o projeto, incluindo a instalação de dependências:
 
