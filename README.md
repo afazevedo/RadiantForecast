@@ -16,7 +16,7 @@ Descreva aqui a organização do repositório, facilitando a navegação e enten
     ├── presentation.pptx # Apresentação do projeto
     └── references.md # Referências e fontes utilizadas
 
-├── notebooks # Notebooks Jupyter para análise e modelagem
+├── notebooks # Notebooks como documentação do processo
     ├── 01_data_collection.ipynb # Notebook para coleta de dados
     ├── 02_data_manipulation_and_merging.ipynb # Notebook para manipulação e cruzamento de dados
     ├── 03_data_preprocessing.ipynb # Notebook para pré-processamento de dados
